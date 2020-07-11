@@ -1,5 +1,8 @@
 # q-learning-MCU
-参考：https://github.com/392625227/Arduino_Neural_Network
+
+代码和说明链接：https://github.com/392625227/q-learning-HC0541-C51-
+
+本文修改自这个：https://github.com/392625227/Arduino_Neural_Network
 
 实现一个基于8051MCU的强化学习q-learning 应用。
 
